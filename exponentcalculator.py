@@ -9,3 +9,4 @@ def base_and_exponent(base, exp):
 # Print
     print(base, "raised to the power of", exp, "is:", result)
 # Given
+base_and_exponent(3, 7)
